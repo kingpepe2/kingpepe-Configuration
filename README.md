@@ -17,4 +17,4 @@ listen=1
 server=1
 txindex=1
 daemon=1
-addnode=node3.walletbuilders.com   or http://85.237.211.140:24028
+addnode=http://85.237.211.140:24027
